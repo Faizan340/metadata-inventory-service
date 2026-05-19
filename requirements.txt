@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+motor            # Async Python driver for MongoDB
+httpx            # Async HTTP client for fetching metadata
+pydantic         # Data validation
+pydantic-settings # Environment variable management
+pytest           # Testing framework
+pytest-asyncio   # For testing async endpoints
